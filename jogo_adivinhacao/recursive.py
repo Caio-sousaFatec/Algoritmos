@@ -51,4 +51,3 @@ recursive_adivinhacao(n)
 #passo 19 = é realizado a comparação do prompt e n. n == prompt
 #passo 20 = é dada o print "parabéns, você acertou "
 #passo 21 = é dado o return, e finalizada a função 
-
